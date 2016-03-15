@@ -12,10 +12,9 @@ StringJoin.java,2,No,No,N/A,0,0,N/A,N/A,No,9,No,0,20,N/A,Bad
 Person.java,16,Yes,Yes,N/A,0,2,N/A,N/A,No,11,Yes,2,31,1,Good
 Point.java,4,Yes,Yes,Yes,3,0,N/A,N/A,No,11,No,0,54,2,Bad
 ColorPoint.java,4,Yes,Yes,Yes,2,0,N/A,N/A,N/A,6,No,0,27,2,Bad
-StringEquals.java,2,Yes,Yes,No,0,1,N/A,N/A,Yes,23,Yes,2,48,2,
+StringEquals.java,2,Yes,Yes,No,0,1,N/A,N/A,Yes,23,Yes,2,48,2,Good
 TernaryComparison.java,16,Yes,No,No,3,0,N/A,N/A,Yes,4,Yes,5,182,3,Bad
 FizzBuzz.java,6,Yes,No,Yes,3,0,N/A,N/A,Yes,4,Yes,6,54,N/A,Bad
-PolyGlot.java,4,,,,,,,,,,,,,,
 MysteryCode.java,0,No,No,Yes,3,0,N/A,N/A,Yes,13,Yes,17,47,7,Bad
 Assembly.java,4,Yes,Yes,N/A,8,0,N/A,N/A,YES,23,Yes,20,160,2,Bad
 Salary.java,2,No,No,N/A,0,0,N/A,N/A,Yes,28,Yes,2,100,1,Bad
@@ -41,7 +40,7 @@ NewtonsMethodGood.java,2,Yes,Yes,N/A,0,2,N/A,N/A,Yes,7,Yes,2,30,1,Good
 LongLine.java,0,Yes,No,No,2,0,N/A,N/A,Yes,1,Yes,6,198,3,Bad
 BadMessage.java,6,No,Yes,N/A,1,0,N/A,N/A,Yes,6,Yes,16,65,N/A,Bad
 GoodMessage.java,2,Yes,Yes,N/A,0,0,N/A,N/A,Yes,6,No,0,65,N/A,Good
-NodeStart.java,4,Yes,Yes,NA,0,8,N/A,N/A,Yes,113,No,0,110,1,Good?
+NodeStart.java,4,Yes,Yes,NA,0,8,N/A,N/A,Yes,113,No,0,110,1,Good
 StashValue.java,4,Yes,Yes,N/A,0,3,N/A,No,Yes,5,No,0,78,1,Good
 GetHeightGood.java,2,Yes,Yes,N/A,0,2,N/A,N/A,Yes,9,No,0,90,2,Good
 GetHeightBad.java,2,Yes,Yes,N/A,5,2,N/A,N/A,Yes,9,No,0,90,2,Bad
@@ -55,4 +54,6 @@ ArduinoLoopBad.java,4,Yes,Yes,N/A,2,2,N/A,N/A,Yes,10,No,0,60,1,Good
 HexEncoder.java,4,Yes,Yes,No,0,0,N/A,N/A,Yes,6,Yes,13,140,1,Bad
 MP3.java,4,Yes,Yes,N/A,0,0,N/A,N/A,Yes,20,No,0,40,1,Good
 EarthQuakeMarker.java,2,Yes,Yes,N/A,0,2,N/A,N/A,Yes,7,No,0,75,1,Good
-EarthQuakeMarkerBad.java,2,No,Yes,N/A,0,2,N/A,N/A,Yes,7,No,0,75,1,Good
+EarthQuakeMarkerBad.java,2,No,Yes,N/A,3,2,N/A,N/A,Yes,7,No,0,75,1,Bad
+DeleteContentsGood.java,2,Yes,Yes,N/A,0,2,N/A,N/A,Yes,11,No,0,58,1,Good
+DeleteContentsBad.java,2,Yes,Yes,N/A,3,2,N/A,N/A,Yes,11,No,0,58,1,Bad
